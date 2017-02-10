@@ -1,0 +1,17 @@
+# Application Setting
+manifest.json
+
+# Movies & Subtitles
+movies/*
+
+# Setting of movies
+main/settings/movies.php
+
+## OS clutter
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
